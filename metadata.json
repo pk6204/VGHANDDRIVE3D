@@ -1,0 +1,6 @@
+{
+  "name": "Hand Drive 3D",
+  "description": "Third-person 3D highway racing game controlled in real-time with your hand movements via webcam.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
